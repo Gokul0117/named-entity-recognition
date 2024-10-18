@@ -1,6 +1,6 @@
 # Named Entity Recognition
 
-## AIM
+## AIM:
 
 To develop an LSTM-based model for recognizing the named entities in the text.
 
@@ -149,11 +149,18 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT :
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![image](https://github.com/user-attachments/assets/4f0d2985-ae9c-4305-bbd5-b5d50b1c88ff)
+
+![image](https://github.com/user-attachments/assets/ff1e787f-f59f-4ac2-868f-a662f7ab4aaa)
+
 
 
 ### Histogram Plot
+![image](https://github.com/user-attachments/assets/f9fa899b-7297-47b7-8aaa-0ea1fc3f086d)
 
 ### Sample Text Prediction
+
+![image](https://github.com/user-attachments/assets/de4fef55-397d-4f0b-8cdb-773270ec5579)
 
 
 
